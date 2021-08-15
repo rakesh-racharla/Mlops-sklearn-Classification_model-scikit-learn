@@ -1,0 +1,4 @@
+outs:
+- md5: 5227d462d8ab36a0adbc91935e27f61b
+  size: 2370
+  path: fruit_data_with_colors.txt
